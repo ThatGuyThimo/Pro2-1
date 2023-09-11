@@ -15,10 +15,10 @@
     <body class="antialiased">
             <div class="wrapper">
                 <div class="text">
-                    <h1>kaas is lekker
+                    <h1>Dit is de homepage
                     </h1>
                     <p>Kaas</p>
-                    <a href="{{ url('/register') }}">Register</a>
+                    <a href="{{ url('/#') }}">Dit is een dynamise link</a>
                 </div>
             </div>
     </body>
