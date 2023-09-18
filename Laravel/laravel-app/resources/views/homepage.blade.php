@@ -17,7 +17,7 @@
                 <div class="text">
                     <h1>Dit is de homepage
                     </h1>
-                    <p>Kaas</p>
+                    <p>Kaas test</p>
                     <a href="{{ url('/#') }}">Dit is een dynamise link</a>
                 </div>
             </div>
